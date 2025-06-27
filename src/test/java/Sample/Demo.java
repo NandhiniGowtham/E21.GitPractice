@@ -9,6 +9,7 @@ public class Demo extends LoginPage {
 		 System.out.println("LoginPage");
 		 
 		 LoginPage.login("NandhiniGowtham","12345678909");
+		 System.out.println(".....");
 
 	}
 
